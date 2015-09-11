@@ -1,0 +1,13 @@
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Release\konekti.desktop.exe
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Release\konekti.desktop.pdb
+C:\Proyectos\ckBlast\desktop\bin\konekti.desktop.exe
+C:\Proyectos\ckBlast\desktop\bin\konekti.desktop.pdb
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\konekti.desktop.Properties.Resources.resources
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\Konekti.Desktop.csproj.GenerateResource.Cache
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\konekti.desktop.exe
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\konekti.desktop.pdb
+C:\Proyectos\ckBlast\desktop\bin\konekti.desktop.log4net
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\konekti.desktop.View.LogonView.resources
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Release\Konekti.Desktop.View.MainView.resources
+C:\Proyectos\ckBlast\desktop\bin\Plugin\README.txt

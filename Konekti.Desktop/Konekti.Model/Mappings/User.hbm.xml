@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Konekti.Model.Domain.User, Konekti.Model" table="KN_USER">
+    <id name="Id" column="user_id" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="Name" column="name" type="String" length="50" not-null="true"></property>
+    <property name="UserName" column="username" type="String" length="50"></property>
+    <property name="Password" column="password" type="String" length="50"></property>
+    <property name="Photo" column="photo" type="BinaryBlob"></property>
+    <property name="Active" column="active" type="bool" not-null="true"></property>
+    
+    <bag name="Roles" lazy="false" table="KN_USER_ROLE">
+      <key column="user_id"/>
+      <many-to-many class="Konekti.Model.Domain.Role, Konekti.Model" column="role_id" />
+    </bag>
+  </class>
+</hibernate-mapping>

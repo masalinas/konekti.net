@@ -1,0 +1,6 @@
+C:\Proyectos\Konekti\bin\hibernate.cfg.xml
+C:\Proyectos\Konekti\bin\Konekti.Dao.dll
+C:\Proyectos\Konekti\bin\Konekti.Dao.pdb
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Dao\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Dao\obj\Release\Konekti.Dao.dll
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Dao\obj\Release\Konekti.Dao.pdb

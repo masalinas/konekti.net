@@ -1,0 +1,12 @@
+D:\Proyectos\CARITAS\bin\Plugins\Konekti.Plugin.MessageManager.dll
+D:\Proyectos\CARITAS\bin\Plugins\Konekti.Plugin.MessageManager.pdb
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.frmMessageDockPanel.resources
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.Properties.Resources.resources
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.frmCreateMessage.resources
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.frmReadMessage.resources
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.csproj.GenerateResource.Cache
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.dll
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MessageManager\obj\Debug\Konekti.Plugin.MessageManager.pdb
+D:\Proyectos\KONEKTI\bin\Plugins\Konekti.Plugin.MessageManager.dll
+D:\Proyectos\KONEKTI\bin\Plugins\Konekti.Plugin.MessageManager.pdb

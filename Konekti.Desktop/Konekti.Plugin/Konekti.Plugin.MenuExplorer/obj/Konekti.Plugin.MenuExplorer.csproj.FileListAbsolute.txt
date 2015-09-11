@@ -1,0 +1,9 @@
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\obj\Debug\Konekti.Plugin.MenuExplorer.frmMenuExplorer.resources
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\obj\Debug\Konekti.Plugin.MenuExplorer.csproj.GenerateResource.Cache
+D:\Proyectos\CARITAS\bin\Plugins\Konekti.Plugin.MenuExplorer.dll
+D:\Proyectos\CARITAS\bin\Plugins\Konekti.Plugin.MenuExplorer.pdb
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\obj\Debug\Konekti.Plugin.MenuExplorer.dll
+D:\Proyectos\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\obj\Debug\Konekti.Plugin.MenuExplorer.pdb
+D:\Proyectos\KONEKTI\bin\Plugins\Konekti.Plugin.MenuExplorer.dll
+D:\Proyectos\KONEKTI\bin\Plugins\Konekti.Plugin.MenuExplorer.pdb

@@ -1,0 +1,10 @@
+C:\Proyectos\Konekti\bin\Plugin\Konekti.Plugin.MessageManager.dll
+C:\Proyectos\Konekti\bin\Plugin\Konekti.Plugin.MessageManager.pdb
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.Properties.Resources.resources
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.frmCreateMessage.resources
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.View.MainPluginView.resources
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.frmReadMessage.resources
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.csproj.GenerateResource.Cache
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.dll
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.MessageManager\obj\Release\Konekti.Plugin.MessageManager.pdb

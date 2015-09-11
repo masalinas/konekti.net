@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Konekti.Plugin.MessageManager">
+</Property><Property Name="Solution File" Value="D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Konekti.Plugin.MessageManager.sln">
+</Property><Property Name="User Options File" Value="D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Konekti.Plugin.MessageManager.suo">
+</Property><Property Name="Date" Value="viernes, 12 de junio de 2009">
+</Property><Property Name="Time" Value="0:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MessageManager.sln" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Konekti.Plugin.MessageManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MessageManager.suo" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Konekti.Plugin.MessageManager.suo">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Konekti.Plugin.MessageManager.csproj" Description="Project file successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Konekti.Plugin.MessageManager.csproj">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Konekti.Plugin.MessageManager.csproj.user" Description="Project user file successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Konekti.Plugin.MessageManager.csproj.user">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="frmMessageDockPanel.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\frmMessageDockPanel.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="frmMessageDockPanel.designer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\frmMessageDockPanel.designer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmCreateMessage.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmCreateMessage.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmCreateMessage.designer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmCreateMessage.designer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmReadMessage.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmReadMessage.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmReadMessage.designer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmReadMessage.designer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Properties\DataSources\Konekti.CoreModel.BussinesObjects.StdStationCollection.datasource" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Properties\DataSources\Konekti.CoreModel.BussinesObjects.StdStationCollection.datasource">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="frmMessageDockPanel.resx" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\frmMessageDockPanel.resx">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Properties\Resources.resx" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmCreateMessage.resx" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmCreateMessage.resx">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="UIForms\frmReadMessage.resx" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MessageManager\Backup\UIForms\frmReadMessage.resx">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Konekti.Plugin.MessageManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Konekti.Plugin.MessageManager" Source="Konekti.Plugin.MessageManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MessageManager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Konekti.Plugin.MessageManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MessageManager" Source="Konekti.Plugin.MessageManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

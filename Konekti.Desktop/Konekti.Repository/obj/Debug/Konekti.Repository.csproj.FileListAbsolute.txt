@@ -1,0 +1,9 @@
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\bin\hibernate.cfg.xml
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\bin\Konekti.Repository.dll
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\bin\Konekti.Repository.pdb
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Dao\obj\Debug\Konekti.Repository.csprojResolveAssemblyReference.cache
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Dao\obj\Debug\Konekti.Repository.dll
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Dao\obj\Debug\Konekti.Repository.pdb
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Repository\obj\Debug\Konekti.Repository.csprojResolveAssemblyReference.cache
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Repository\obj\Debug\Konekti.Repository.dll
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Repository\obj\Debug\Konekti.Repository.pdb

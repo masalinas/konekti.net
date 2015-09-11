@@ -1,0 +1,15 @@
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\konekti.desktop.exe
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\konekti.desktop.pdb
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\konekti.desktop.Properties.Resources.resources
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\konekti.desktop.csproj.GenerateResource.Cache
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\konekti.desktop.exe
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\konekti.desktop.pdb
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\DockPanelExtender.dll
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\konekti.framework.dll
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\konekti.framework.pdb
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\log4net.dll
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\log4net.xml
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\bin\Debug\konekti.desktop.log4net
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\Konekti.Desktop.View.LogonView.resources
+C:\Proyectos\ckBlast\desktop\konekti.desktop\konekti.desktop\obj\Debug\Konekti.Desktop.View.MainView.resources

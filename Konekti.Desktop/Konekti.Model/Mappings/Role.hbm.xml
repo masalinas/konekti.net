@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Konekti.Model.Domain.Role, Konekti.Model" table="KN_ROLE">
+    <id name="Id" column="role_id" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="Description" column="description" type="String" length="50" not-null="true"></property>
+  </class>
+</hibernate-mapping>

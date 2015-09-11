@@ -1,0 +1,6 @@
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Service\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Konekti\bin\Konekti.Service.dll
+C:\Proyectos\Konekti\bin\Konekti.Service.pdb
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Service\obj\Release\Konekti.Service.dll
+C:\Proyectos\Konekti\Konekti.Desktop\Konekti.Service\obj\Release\Konekti.Service.pdb
+C:\Proyectos\Konekti\bin\hibernate.cfg.xml

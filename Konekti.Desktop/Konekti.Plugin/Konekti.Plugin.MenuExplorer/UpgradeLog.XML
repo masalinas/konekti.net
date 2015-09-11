@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Konekti.Plugin.MenuExplorer">
+</Property><Property Name="Solution File" Value="D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Konekti.Plugin.MenuExplorer.sln">
+</Property><Property Name="User Options File" Value="D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Konekti.Plugin.MenuExplorer.suo">
+</Property><Property Name="Date" Value="viernes, 12 de junio de 2009">
+</Property><Property Name="Time" Value="0:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MenuExplorer.sln" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\Konekti.Plugin.MenuExplorer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MenuExplorer.suo" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\Konekti.Plugin.MenuExplorer.suo">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="Konekti.Plugin.MenuExplorer.csproj" Description="Project file successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\Konekti.Plugin.MenuExplorer.csproj">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="frmMenuExplorer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\frmMenuExplorer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="frmMenuExplorer.designer.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\frmMenuExplorer.designer.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="frmMenuExplorer.resx" Description="File successfully backed up as D:\PROYECTOS\KONEKTI\Plugins\Konekti.Plugin.MenuExplorer\Backup\frmMenuExplorer.resx">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="Konekti.Plugin.MenuExplorer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Konekti.Plugin.MenuExplorer" Source="Konekti.Plugin.MenuExplorer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Konekti.Plugin.MenuExplorer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Konekti.Plugin.MenuExplorer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Konekti.Plugin.MenuExplorer" Source="Konekti.Plugin.MenuExplorer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

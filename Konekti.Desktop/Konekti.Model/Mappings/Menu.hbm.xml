@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Konekti.Model.Domain.Menu, Konekti.Model" table="KN_MENU">
+    <id name="Id" column="menu_id" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="Name" column="name" type="String" length="50" not-null="true"></property>
+    <property name="Type" column="type" type="int" not-null="true"></property>
+    <property name="Description" column="description" type="String" length="255"></property>
+    <property name="AssemblyName" column="assembly_name" type="String" length="100"></property>
+    <property name="AssemblyVersion" column="assembly_version" type="String" length="20"></property>
+    <property name="Position" column="position" type="int" not-null="true"></property>
+    <property name="ShortcutKey" column="shortcutkey" type="String" length="50"></property>
+    <property name="Image" column="image" type="BinaryBlob"></property>
+    <property name="Visible" column="visible" type="bool" not-null="true"></property>
+    <property name="OnLoad" column="on_load" type="bool" not-null="true"></property>
+
+    <many-to-one name="ParentMenu" column="parent_menu_id" class="Konekti.Model.Domain.Menu, Konekti.Model" />
+    <bag name="SubMenus" lazy="false" cascade="all, delete-orphan">
+      <key column="parent_menu_id" />
+      <one-to-many class="Konekti.Model.Domain.Menu, Konekti.Model" />
+    </bag>
+  </class>
+</hibernate-mapping>

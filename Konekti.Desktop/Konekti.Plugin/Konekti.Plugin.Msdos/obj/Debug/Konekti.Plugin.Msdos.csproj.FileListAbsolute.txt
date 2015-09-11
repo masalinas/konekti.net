@@ -1,0 +1,10 @@
+C:\Proyectos\Konekti\VS2013\bin\Plugin\Konekti.Plugin.Msdos.dll
+C:\Proyectos\Konekti\VS2013\bin\Plugin\Konekti.Plugin.Msdos.pdb
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.csprojResolveAssemblyReference.cache
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.Properties.Resources.resources
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.MainPluginView.resources
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.csproj.GenerateResource.Cache
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.dll
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\Konekti.Plugin\Konekti.Plugin.Msdos\obj\Debug\Konekti.Plugin.Msdos.pdb
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\bin\Plugin\Konekti.Plugin.Msdos.dll
+C:\Proyectos\Konekti\VS2013\Konekti.Desktop\bin\Plugin\Konekti.Plugin.Msdos.pdb
