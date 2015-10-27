@@ -15,4 +15,4 @@ The application uses:
 - [WeifenLuo WinFormsUI Docking](http://dockpanelsuite.com/) The docking library for .Net Windows Forms development which mimics Visual Studio .Net
 - [DockPanel Extender 1.0.0](http://www.codeproject.com/Articles/14336/A-Visual-Studio-like-Interface) Apply a theme that resembles Visual Studio 2005 to the DockPanel Suite, using an Extender class
 - [Log4net](https://logging.apache.org/log4net/) The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets.
-- [CommandPrompt](http://www.codeproject.com/)
+- [CommandPrompt](http://www.codeproject.com/) A command prompt net plugin
