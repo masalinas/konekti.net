@@ -1,13 +1,11 @@
 # konekti.net
-Konekti .NET modular platform
-
-==
-a Visual Studio 2013 Project
+Konekti .NET a Visual Studio 2013 Project modular platform.
 
 Licenses
 ==
 The source code is released under Apache 2.0.
 
+==
 The application uses: 
 - [NET 3.5](https://www.microsoft.com/es-es/download/details.aspx?id=21). Microsoft NET Framework.
 - [MySQL Connector v5.2.7](https://dev.mysql.com/downloads/connector/net/6.9.html) framework by Oracle, which is released under GPL 2.0: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
