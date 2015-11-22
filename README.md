@@ -1,6 +1,8 @@
 # konekti.net
 Konekti .NET a Visual Studio 2013 Project modular platform.
 
+![picapp - asus zenbook ux305](https://cloud.githubusercontent.com/assets/1216181/11323795/f4ad8330-911d-11e5-88d6-e22c97f8504b.png)
+
 Licenses
 ==
 The source code is released under Apache 2.0.
